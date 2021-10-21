@@ -1,0 +1,4 @@
+org/gs/MovieResource.class
+META-INF/panache-archive.marker
+org/gs/MovieRepository.class
+org/gs/Movie.class
